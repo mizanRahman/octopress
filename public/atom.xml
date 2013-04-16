@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Thought Seeds]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2013-04-16T04:36:38+06:00</updated>
+  <updated>2013-04-16T14:21:45+06:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Mizanur Rahman Khan]]></name>
+    <email><![CDATA[mizan.cse.buet@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Write Build Scripts with DSL in Ruby ]]></title>
+    <link href="http://yoursite.com/blog/2013/04/16/write-build-scripts-with-dsl-in-ruby/"/>
+    <updated>2013-04-16T14:12:00+06:00</updated>
+    <id>http://yoursite.com/blog/2013/04/16/write-build-scripts-with-dsl-in-ruby</id>
+    <content type="html"><![CDATA[<h2>What is DSL</h2>
+
+<p>Domain Specific Languages (DSLs) have been around since I&#8217;ve been in computing, but it&#8217;s hard to find much information about how to work with them. DSLs are small languages, focused on a particular aspect of a software system. You can&#8217;t build a whole program with a DSL, but you often use multiple DSLs in a system mainly written in a general purpose language.</p>
+]]></content>
+  </entry>
   
 </feed>
